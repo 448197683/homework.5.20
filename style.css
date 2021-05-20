@@ -1,0 +1,155 @@
+.wrap{
+  height: 50vh;
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 5px;
+}
+header{
+  display: flex;
+  justify-content:space-around;
+  width: 580px;
+  height: 100px;;
+  background-color: goldenrod;
+  font-size: 25px;
+  padding-top: 30px;
+}
+.container1{
+  width: 500px;
+  height: 30px;
+  margin: 0 35px;
+}
+.parent{
+  position: relative;
+}
+.search{
+  width: 500px;
+  height: 40px;
+  outline: none;
+  border-radius: 18px;
+  border: 1px solid #ccc;
+  position: absolute;
+  top: -25px;
+}
+.btn{
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  background: url(/8.ico);
+  border: none;
+  left: 450px;
+  top: -20px;
+}
+h1{
+  margin: 30px 25px 30px 0;
+  font-size: 30px;
+  font-weight: 700;
+  clear: both;
+}
+.top-box{
+  width: 580px;
+}
+.img1{
+  width: 120px;
+  height: 183px;
+  margin-right: 25px;
+  float: left;
+}
+h2{
+  font-size: 20px;
+  font-weight: 600;
+  margin: 15px;
+}
+.p1{
+  color: rgba(0, 0, 0, 0.205);
+  margin-bottom: 15px;
+}
+.fa-star{
+  color: rgb(255, 206, 51);
+}
+.star-color{
+  color:rgba(0, 0, 0, 0.164);
+}
+.star1{
+  margin-bottom: 15px;
+}
+.container2{
+  display: flex;
+  margin-bottom: 15px;
+}
+.h4-j{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.205);
+  height: 25px;
+  width: 75px;
+  border-radius: 15px;
+  margin-right: 30px;
+}
+.h4-b{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.205);
+  height: 25px;
+  width: 90px;
+  border-radius: 15px;
+}
+.container3{
+  display: flex;
+  align-items: center;
+}
+.img2{
+  width: 50px;
+  height: 50px;
+  margin-right: 70px;
+}
+h5{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-color: black;
+  height: 25px;
+  width: 90px;
+  border-radius: 10px;
+}
+.main-center{
+  width: 580px;
+}
+.container4{
+  display: flex;
+  justify-content: space-around;
+}
+.img3{
+  width: 100px;
+  height: 169px;
+}
+.star2{
+  font-size: 12px;
+}
+.star-box{
+  float: left;
+  margin-bottom: 15px;
+}
+.box1{
+  margin: 10px 25px 10px 30px;
+}
+.box2{
+  margin: 10px 25px 10px 30px;
+}
+.box3{
+  margin: 10px 35px 10px 30px;
+}
+.box4{
+  margin: 10px 25px 10px 30px;
+}
+.img4{
+  float: left;
+  width: 120px;
+  height: 185px;
+  margin-right: 25px;
+}
+p{
+  color: rgba(0, 0, 0, 0.356);
+}
